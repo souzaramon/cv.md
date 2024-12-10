@@ -8,8 +8,8 @@
 
 **About**
 
-I am a Full-stack Developer with over 8 years of experience building web applications. I specialize in technologies such \
-as AWS, TypeScript, Node.js, React.js, with a focus on delivering high-quality solutions. Throughout my career, I’ve worked in both startup \
+I am a Full-stack Developer with over 8 years of experience building web applications. I specialize in technologies such
+as AWS, TypeScript, Node.js, React.js, with a focus on delivering high-quality solutions. Throughout my career, I’ve worked in both startup
 environments and established companies, contributing to a variety of projects ranging from web platforms to DevOps automation.
 
 I see programming as a tool to solve real-world problems, and I’m adaptable in working with any language, framework, or library to deliver the a good solution
