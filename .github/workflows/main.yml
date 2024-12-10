@@ -14,12 +14,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      
+
       - name: Rename CV files
         run: |
           mkdir ./docs
           mv README.md ./docs/cv-webdev-souzaramon.md
-          mv README-pt.md ./docs/cv-webdev-souzaramon-ptbr.md
 
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
@@ -28,15 +27,14 @@ jobs:
           images_dir: ./images
           image_import: ./images
           build_html: false
-     
-      - uses: actions/upload-artifact@v1
+
+      - uses: actions/upload-artifact@v4
         with:
           name: cv-webdev-ramon-souza
           path: souzaramon
-          
-      - uses: softprops/action-gh-release@v1
+
+      - uses: softprops/action-gh-release@v2
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
             ./souzaramon/cv-webdev-souzaramon.pdf
-            ./souzaramon/cv-webdev-souzaramon-ptbr.pdf
