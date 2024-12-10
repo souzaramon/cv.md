@@ -1,76 +1,77 @@
-## Ramon Souza
+## Ramon de Brittos Souza
 
-- **E-mail:** souzaramon.dev@gmail.com<br>
-- **Github:** [souzaramon](https://github.com/souzaramon)
+**Contact**
 
-## About me
+- Email: hi.souzaramon@gmail.com
+- Github: [github.com/souzaramon](https://github.com/souzaramo)
+- Linkedin: [linkedin.com/in/2bfe26](https://www.linkedin.com/in/2bfe26)
 
-5+ years of experience in the web applications development using javascript, constantly studying the technologies I work with or find interesting, currently learning DevOps technologies.
+**About**
 
-## Skills
+I am a Full-stack Developer with over 8 years of experience building web applications. I specialize in technologies such \
+as AWS, TypeScript, Node.js, React.js, with a focus on delivering high-quality solutions. Throughout my career, I’ve worked in both startup \
+environments and established companies, contributing to a variety of projects ranging from web platforms to DevOps automation.
 
-- Git
-- Linux
-- Docker
-- Terraform
-- AWS
-- CI / CD Pipelines
-  - Github Actions
-  - Bitbucket Pipelines
-  - Gitlab CI
-- Automated Testing
-  - e2e
-    - Playwright
-    - Cypress
-  - unit
-    - Jest
-    - Vitest
-    - react-testing-library
-- HTML
-  - Canvas
-  - DOM
-  - SEO & Accessibility
-- CSS
-  - Responsive Design
-  - Flexbox & Grid Layout
-- NodeJS
-  - NestJS
-  - ExpressJS
-  - Fastify
-- GraphQL
-- React
-- NextJS
-- Gatsby
-- Postgres
-- MongoDB
+I see programming as a tool to solve real-world problems, and I’m adaptable in working with any language, framework, or library to deliver the a good solution
 
-## Work experience
+### Work experience
 
-- **Desenvolvedor Typescript** - [Objective](https://www.objective.com.br/) - Abr 2022 - Current
+[<img align="left" height="65px" width="65px" src="./assets/careerio.png"/>](https://www.catho.com.br/)
 
-  - Writing automated tests for [Rocket.Chat](https://rocket.chat/)
+**Full-stack Developer** \
+[**Carrer.io**](https://career.io/) • Full-time • 12/2023 - Current • _1 year and 1 month_ \
+Skills: `AWS`, `Typescript`, `Node.JS`, `React.JS`, `Gatsby`, `NextJS`, `Golang`
 
-- **Typescript Developer** - [Ema Software](https://ema.net.br/) - Apr 2021 - Apr 2022
+[<img align="left" height="65px" width="65px" src="./assets/catho.png"/>](https://www.catho.com.br/)
 
-  - Creating fullstack products using React, React Native, Nodejs and AWS
+**Full-stack Developer** \
+[**Catho**](https://www.catho.com.br/) • Full-time • 01/2023 - 12/2023 • _1 year_ \
+Skills: `AWS`, `Typescript`, `Node.JS`, `React.JS`, `Golang`, `Automated tests`
 
-- **Elixir Developer** - [Astrocoders](https://astrocoders.com/) - Dec 2019 - May 2020
+[<img align="left" height="65px" width="65px" src="./assets/obj.png"/>](https://www.objective.com.br/)
 
-  - API Development with Elixir, using Phoenix and GraphQL
+**DevOps Engineer** \
+[**Objective**](https://www.objective.com.br/) • Full-time • 02/2022 - 01/2023 • _1 year_ \
+Skills: `AWS`, `Kubernetes`, `Docker`, `Terraform`, `ShellScript`, `Github Actions`
 
-- **Typescript Developer** - [Ema Software](https://ema.net.br/) - Jul 2019 - Dec 2019
+[<img align="left" height="65px" width="65px" src="./assets/freelance.png"/>](https://www.objective.com.br/)
 
-  - Improving performance and fixing bugs in ReactJS apps
+**Full-stack Developer** \
+**Freelance** • Full-time • 12/2019 - 02/2022 • _2 year and 3 months_ \
+Skills: `AWS`, `React.JS`, `React Native`, `Nest.JS`, `Node.JS`, `Elixir`, `ReasonML`
 
-- **Javascript Developer** - [JMV - Sistemas](sgap.com.br) - Feb 2018 - Jul 2019
-  - Creating fullstack products using VueJS, React Native and Nodejs
+[<img align="left" height="65px" width="65px" src="./assets/ema.png"/>](https://ema.net.br/)
 
-**Assistant Researcher and PHP Developer** - [RexLab](rexlab.ufsc.br) - Dec 2016 - Jan 2019
+**Full-stack Developer** \
+[**Ema**](https://ema.net.br/) • Full-time • 06/2019 - 12/2019 • _**6 months**_ \
+Skills: `AWS`, `DynamoDB`, `Typescript`, `Node.JS`, `React.JS`, `React Native`
 
-## Education
+[<img align="left" height="65px" width="65px" src="./assets/jmv.png"/>](https://astrocoders.com/)
 
-- **Bacharelando em Tecnologia da Informação e Comunicação** - Jun 2016 - **ongoing**
+**Full-stack Developer** \
+**JMV Sistemas** • Full-time • 02/2018 - 07/2019 • _**1 year and 6 months**_ \
+Skills: `Git`, `AWS`, `Postgresql`, `PHP`, `Node.JS`, `JQuery`,
 
-  - Universidade Federal de Santa Catarina - Campos Araranguá
+[<img align="left" height="65px" width="65px" src="./assets/rexlab.png"/>](https://astrocoders.com/)
 
-- **CNA english class - Medium level** - May 2019 - May 2020
+**Full-stack Developer** \
+[**RExLab**](https://rexlab.ufsc.br/) • Half-time • 12/2016 - 01/2018 • _**1 year and 2 months**_ \
+Skills: `Mysql`
+
+### Education
+
+[<img align="left" height="65px" width="65px" src="./assets/ufsc.png"/>](https://astrocoders.com/)
+
+**Bachelor of Science in Information and Communication Technology** • _Incomplete_ \
+Universidade Federal de Santa Catarina \
+[TCC (Final Thesis/Project)](https://repositorio.ufsc.br/handle/123456789/249051)
+
+### Languages
+
+- Portuguese: Native
+- English: Fluent
+
+### Courses
+
+- AWS - Architecting on AWS
+- AWS - Developing on AWS
