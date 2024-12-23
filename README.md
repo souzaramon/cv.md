@@ -50,13 +50,14 @@ Skills: `AWS`, `DynamoDB`, `Typescript`, `Node.JS`, `React.JS`, `React Native`
 
 **Full-stack Developer** \
 **JMV Sistemas** • Full-time • 02/2018 - 07/2019 • _**1 year and 6 months**_ \
-Skills: `Git`, `AWS`, `Postgresql`, `PHP`, `Node.JS`, `JQuery`,
+Skills: `AWS`, `Typescript`, `Node.JS`, `React.JS`, `React Native`
 
 [<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/souzaramon/aboutme.md/refs/heads/gh-pages/assets/rexlab.png"/>](https://rexlab.ufsc.br)
 
 **Full-stack Developer** \
 [**RExLab**](https://rexlab.ufsc.br/) • Half-time • 12/2016 - 01/2018 • _**1 year and 2 months**_ \
-Skills: `Mysql`
+Skills: `Git`, `AWS`, `Postgresql`, `PHP`, `Node.JS`, `JQuery`,
+&nbsp;
 
 ### Education
 
